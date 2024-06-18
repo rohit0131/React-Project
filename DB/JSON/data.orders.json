@@ -1,0 +1,412 @@
+[{
+  "_id": {
+    "$oid": "662be2a5aab6a7fe419649b5"
+  },
+  "buyer": {
+    "$oid": "662b71819ab72c5a6d14021c"
+  },
+  "shippingData": {
+    "address": "xyz",
+    "city": "pune",
+    "state": "maharashtra",
+    "country": "india",
+    "pinCode": 122342,
+    "phoneNo": {
+      "$numberLong": "7757015989"
+    }
+  },
+  "orderedProducts": [
+    {
+      "productName": "poco m2 Pro",
+      "price": {
+        "mrp": 20000,
+        "cost": 15000,
+        "discountPercent": 30
+      },
+      "subcategory": "mobile",
+      "productImage": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/o/o/-original-imaghkvuzxkcna4n.jpeg?q=70",
+      "category": "mobile",
+      "description": "sdfdsffff",
+      "tagline": "fdsfddddddddd",
+      "quantity": 3,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662b7303e125f9df6d381abe"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "6363-2026-1714152099798",
+    "status": "Successful"
+  },
+  "paidAt": {
+    "$date": "2024-04-26T17:21:41.298Z"
+  },
+  "productsQuantity": 3,
+  "taxPrice": 0,
+  "shippingPrice": 0,
+  "totalPrice": 45000,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2024-04-26T17:21:41.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e98f68b4efe6f529511dc"
+  },
+  "buyer": {
+    "$oid": "662e97618b4efe6f529510f4"
+  },
+  "shippingData": {
+    "address": "04 Borkar Building Lane no 3 Shivtej Park Near Raisoni College Wagholi PuneP",
+    "city": "Pune",
+    "state": "maharashtra",
+    "country": "IN",
+    "pinCode": 412207,
+    "phoneNo": {
+      "$numberLong": "9623910270"
+    }
+  },
+  "orderedProducts": [
+    {
+      "productName": "poco m2 Pro",
+      "price": {
+        "mrp": 20000,
+        "cost": 15000,
+        "discountPercent": 30
+      },
+      "subcategory": "mobile",
+      "productImage": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/o/o/-original-imaghkvuzxkcna4n.jpeg?q=70",
+      "category": "mobile",
+      "description": "sdfdsffff",
+      "tagline": "fdsfddddddddd",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662b7303e125f9df6d381abe"
+      }
+    },
+    {
+      "productName": "AGIL HERBICIDE",
+      "price": {
+        "mrp": 500,
+        "cost": 214,
+        "discountPercent": 57
+      },
+      "subcategory": "Herbicides",
+      "productImage": "https://cdn.shopify.com/s/files/1/0722/2059/products/1_2_82138792-34c6-491b-9e92-e9babd9c97b9.webp?v=1671449710",
+      "category": "Herbicides",
+      "description": "Product Description\nABOUT PRODUCT\nAgil Herbicide is a herbicide of the aryloxyphenoxy propionates family. It is used for the post-emergence control of a wide range of annual and perennial grasses.\nAgil is used for selective weed control in many broadleaf crops such as sugarbeet, oilseed rape, soybeans, sunflower, other field crops, vegetables, fruit trees, vineyards and forestry and best result is achieved when sprayed at the 2-4 leaf stage.\nAgil Herbicide is a systemic herbicide, which is quickly absorbed by the leaves and translocated from the foliage to the growing points of the leaves and roots of the sprayed weeds.\nRainfall 1 hour after application will not affect the product activity. Optimal activity is achieved when applied early and weeds are actively growing.\nAgil Herbicide is safe for beneficial insects and mammals and is environmentally friendly.\nTECHNICAL CONTENT\nPropaquizafop 10% EC\n\nFEATURES\nRainfall 1 hour after application will not affect the product activity. Optimal activity is achieved when applied early and weeds are actively growing.\nAGIL is safe to beneficial insects and mammals and is environmentally friendly.",
+      "tagline": "AGIL HERBICIDE",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662e20ee4a4c414982f5eb7c"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "2452-2003-1714329844427",
+    "status": "Successful"
+  },
+  "paidAt": {
+    "$date": "2024-04-28T18:44:06.646Z"
+  },
+  "productsQuantity": 2,
+  "taxPrice": 0,
+  "shippingPrice": 0,
+  "totalPrice": 15214,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2024-04-28T18:44:06.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66306ab2945e72de5d06034a"
+  },
+  "buyer": {
+    "$oid": "662ff37b4c9d3436552fb698"
+  },
+  "shippingData": {
+    "address": "At Post shelapur Kd Tal motala dist Buldhana ",
+    "city": "pune",
+    "state": "maharashtra",
+    "country": "INdia",
+    "pinCode": 412207,
+    "phoneNo": {
+      "$numberLong": "7766554433"
+    }
+  },
+  "orderedProducts": [
+    {
+      "productName": "AGIL HERBICIDE",
+      "price": {
+        "mrp": 500,
+        "cost": 214,
+        "discountPercent": 57
+      },
+      "subcategory": "Herbicides",
+      "productImage": "https://cdn.shopify.com/s/files/1/0722/2059/products/1_2_82138792-34c6-491b-9e92-e9babd9c97b9.webp?v=1671449710",
+      "category": "Herbicides",
+      "description": "Product Description\nABOUT PRODUCT\nAgil Herbicide is a herbicide of the aryloxyphenoxy propionates family. It is used for the post-emergence control of a wide range of annual and perennial grasses.\nAgil is used for selective weed control in many broadleaf crops such as sugarbeet, oilseed rape, soybeans, sunflower, other field crops, vegetables, fruit trees, vineyards and forestry and best result is achieved when sprayed at the 2-4 leaf stage.\nAgil Herbicide is a systemic herbicide, which is quickly absorbed by the leaves and translocated from the foliage to the growing points of the leaves and roots of the sprayed weeds.\nRainfall 1 hour after application will not affect the product activity. Optimal activity is achieved when applied early and weeds are actively growing.\nAgil Herbicide is safe for beneficial insects and mammals and is environmentally friendly.\nTECHNICAL CONTENT\nPropaquizafop 10% EC\n\nFEATURES\nRainfall 1 hour after application will not affect the product activity. Optimal activity is achieved when applied early and weeds are actively growing.\nAGIL is safe to beneficial insects and mammals and is environmentally friendly.",
+      "tagline": "AGIL HERBICIDE",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662e20ee4a4c414982f5eb7c"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "4545-0231-1714449072367",
+    "status": "Successful"
+  },
+  "paidAt": {
+    "$date": "2024-04-30T03:51:14.242Z"
+  },
+  "productsQuantity": 1,
+  "taxPrice": 0,
+  "shippingPrice": 0,
+  "totalPrice": 214,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2024-04-30T03:51:14.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6639bc97b2a7de81944a6410"
+  },
+  "buyer": {
+    "$oid": "662ff37b4c9d3436552fb698"
+  },
+  "shippingData": {
+    "address": "At Post shelapur Kd Tal motala dist Buldhana ",
+    "city": "pune",
+    "state": "maharashtra",
+    "country": "INdia",
+    "pinCode": 412207,
+    "phoneNo": {
+      "$numberLong": "7766554433"
+    }
+  },
+  "orderedProducts": [
+    {
+      "productName": "AGIL HERBICIDE",
+      "price": {
+        "mrp": 500,
+        "cost": 214,
+        "discountPercent": 57
+      },
+      "subcategory": "Herbicides",
+      "productImage": "https://cdn.shopify.com/s/files/1/0722/2059/products/1_2_82138792-34c6-491b-9e92-e9babd9c97b9.webp?v=1671449710",
+      "category": "Herbicides",
+      "description": "Product Description\nABOUT PRODUCT\nAgil Herbicide is a herbicide of the aryloxyphenoxy propionates family. It is used for the post-emergence control of a wide range of annual and perennial grasses.\nAgil is used for selective weed control in many broadleaf crops such as sugarbeet, oilseed rape, soybeans, sunflower, other field crops, vegetables, fruit trees, vineyards and forestry and best result is achieved when sprayed at the 2-4 leaf stage.\nAgil Herbicide is a systemic herbicide, which is quickly absorbed by the leaves and translocated from the foliage to the growing points of the leaves and roots of the sprayed weeds.\nRainfall 1 hour after application will not affect the product activity. Optimal activity is achieved when applied early and weeds are actively growing.\nAgil Herbicide is safe for beneficial insects and mammals and is environmentally friendly.\nTECHNICAL CONTENT\nPropaquizafop 10% EC\n\nFEATURES\nRainfall 1 hour after application will not affect the product activity. Optimal activity is achieved when applied early and weeds are actively growing.\nAGIL is safe to beneficial insects and mammals and is environmentally friendly.",
+      "tagline": "AGIL HERBICIDE",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662e20ee4a4c414982f5eb7c"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "2222-1120-1715059861275",
+    "status": "Successful"
+  },
+  "paidAt": {
+    "$date": "2024-05-07T05:31:03.302Z"
+  },
+  "productsQuantity": 1,
+  "taxPrice": 0,
+  "shippingPrice": 0,
+  "totalPrice": 214,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2024-05-07T05:31:03.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66485a6b40e5be62e50c9d01"
+  },
+  "buyer": {
+    "$oid": "662ff37b4c9d3436552fb698"
+  },
+  "shippingData": {
+    "address": "At Post shelapur Kd Tal motala dist Buldhana ",
+    "city": "pune",
+    "state": "maharashtra",
+    "country": "India",
+    "pinCode": 412207,
+    "phoneNo": {
+      "$numberLong": "7766554433"
+    }
+  },
+  "orderedProducts": [
+    {
+      "productName": " Sonalika 33x39 PTO Double Wheel Bumper Model, Coupleen Self-Feed (Krishi Samrat)",
+      "price": {
+        "mrp": 1000,
+        "cost": 900,
+        "discountPercent": 25
+      },
+      "subcategory": "Rental Equipments",
+      "productImage": "https://assets.tractorjunction.com/tractor-junction/assets/images/images/implementTractor/33x39-pto-double-wheel-bumper-model-coupleen-self-feed-krishi-samrat-66-1674555909.webp?format=webp",
+      "category": "Rental Equipments",
+      "description": "Product Description\nIt is used for Harvesting\n\n",
+      "tagline": " Sonalika 33x39 PTO Double Wheel Bumper Model, Coupleen Self-Feed (Krishi Samrat)",
+      "quantity": 2,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662fec3a4c9d3436552fb3d3"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "9657-0325-1716017769564",
+    "status": "Successful"
+  },
+  "paidAt": {
+    "$date": "2024-05-18T07:36:11.969Z"
+  },
+  "productsQuantity": 2,
+  "taxPrice": 0,
+  "shippingPrice": 0,
+  "totalPrice": 1800,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2024-05-18T07:36:11.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f6491188f383076f58813"
+  },
+  "buyer": {
+    "$oid": "662ff37b4c9d3436552fb698"
+  },
+  "shippingData": {
+    "address": "At Post shelapur Kd Tal motala dist Buldhana ",
+    "city": "pune",
+    "state": "maharashtra",
+    "country": "India",
+    "pinCode": 412207,
+    "phoneNo": {
+      "$numberLong": "7766554433"
+    }
+  },
+  "orderedProducts": [
+    {
+      "productName": "Red Lady Papaya Seeds",
+      "price": {
+        "mrp": 1052,
+        "cost": 968,
+        "discountPercent": 8
+      },
+      "subcategory": "Papaya",
+      "productImage": "https://cdn.shopify.com/s/files/1/0722/2059/products/Red-Lady.jpg?v=1680779545",
+      "category": "Seeds",
+      "description": "Product Description\n\nRed Lady Papaya Seeds from Known You is early, vigorouctive, as, prodund tolerant to papaya ringspot virus\nPlants begin to bear fruit at 60-80 cm height and have over 30 fruits per plant in each fruit-setting season\nFruits are short oblong on female plants and rather long-shaped on bisexual plants, weighing about 1.5-2 kg\nThe flesh is thick, red, with 13% sugar content, and aromatic\nGood shelf life and transportability\nSeason - Kharif, Rabi and Early summer\n10 Gm= 550-600 Seeds\n\n2gm= 100-120 Seeds",
+      "tagline": "Red Lady Papaya Seeds",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662e93448b4efe6f52950fec"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "2525-0211-1716479114207",
+    "status": "Successful"
+  },
+  "paidAt": {
+    "$date": "2024-05-23T15:45:21.485Z"
+  },
+  "productsQuantity": 1,
+  "taxPrice": 0,
+  "shippingPrice": 0,
+  "totalPrice": 968,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2024-05-23T15:45:21.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665dafd072b36ac6ab3ee0bd"
+  },
+  "buyer": {
+    "$oid": "662ff37b4c9d3436552fb698"
+  },
+  "shippingData": {
+    "address": "At Post shelapur Kd Tal motala dist Buldhana ",
+    "city": "pune",
+    "state": "maharashtra",
+    "country": "India",
+    "pinCode": 412207,
+    "phoneNo": {
+      "$numberLong": "7766554433"
+    }
+  },
+  "orderedProducts": [
+    {
+      "productName": "Cultivator",
+      "price": {
+        "mrp": 830,
+        "cost": 620,
+        "discountPercent": 24
+      },
+      "subcategory": "Rental Equipments",
+      "productImage": "https://assets.tractorjunction.com/tractor-junction/assets/images/items/Sell-implement-product-1674285268-0.jpeg",
+      "category": "Rental Equipments",
+      "description": "Product Description\n\nIs Cultivator  perfect for farming?\n\nYes, it provides effective work on the field that makes  Cultivator perfect for farming. It comes under the Cultivator Category. And, it has Implement Power that provides fuel efficient work. It is an implement that comes from the Cavalo brand house known for its superb quality niches.",
+      "tagline": "Cultivator",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662fe9524c9d3436552fb3cf"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "3153-1277-1717415885240",
+    "status": "Successful"
+  },
+  "paidAt": {
+    "$date": "2024-06-03T11:58:08.586Z"
+  },
+  "productsQuantity": 1,
+  "taxPrice": 0,
+  "shippingPrice": 0,
+  "totalPrice": 620,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2024-06-03T11:58:08.595Z"
+  },
+  "__v": 0
+}]
