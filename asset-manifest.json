@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Project/static/css/main.b7201e31.css",
+    "main.js": "/React-Project/static/js/main.8de3db12.js",
+    "static/media/bg.png": "/React-Project/static/media/bg.1d089e0f64859d289e30.png",
+    "static/media/img5.png": "/React-Project/static/media/img5.a06a54ebb638791464cf.png",
+    "static/media/img4.png": "/React-Project/static/media/img4.7bfb48fe90086b89acfa.png",
+    "static/media/img1.jpg": "/React-Project/static/media/img1.9e046d39a5aa357ad996.jpg",
+    "static/media/green.png": "/React-Project/static/media/green.3af7b591eaae64ea1a7b.png",
+    "static/media/cartimg.png": "/React-Project/static/media/cartimg.518e9609b7cd26e1329f.png",
+    "static/media/bg1.jpg": "/React-Project/static/media/bg1.7fac12986fc1fd8c9649.jpg",
+    "static/media/img3.jpg": "/React-Project/static/media/img3.b08672a164102870e003.jpg",
+    "static/media/revicons.eot": "/React-Project/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-Project/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/altimg.png": "/React-Project/static/media/altimg.121d1c79f0aaa19a07d9.png",
+    "static/media/revicons.woff": "/React-Project/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/React-Project/index.html",
+    "main.b7201e31.css.map": "/React-Project/static/css/main.b7201e31.css.map",
+    "main.8de3db12.js.map": "/React-Project/static/js/main.8de3db12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7201e31.css",
+    "static/js/main.8de3db12.js"
+  ]
+}
