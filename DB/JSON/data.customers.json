@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "662e97618b4efe6f529510f4"
+  },
+  "name": "Abhi",
+  "email": "abhi@gmail.com",
+  "password": "$2b$10$bWUwLf6sSXsCBV8WTjObPO4yjqCe6j64C9yT8/whvdkhZl.ohSg8q",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "SEMPRA HERBICIDE",
+      "price": {
+        "mrp": 281,
+        "cost": 229,
+        "discountPercent": 19
+      },
+      "subcategory": "Herbicides",
+      "productImage": "https://cdn.shopify.com/s/files/1/0722/2059/products/4_bd3ad653-2283-4098-aa9f-1d13b22b22b8.webp?v=1671630228",
+      "category": "Herbicides",
+      "description": "Product Description\nABOUT PRODUCT\nAgil Herbicide is a herbicide of the aryloxyphenoxy propionates family. It is used for the post-emergence control of a wide range of annual and perennial grasses.\nAgil is used for selective weed control in many broadleaf crops such as sugarbeet, oilseed rape, soybeans, sunflower, other field crops, vegetables, fruit trees, vineyards and forestry and best result is achieved when sprayed at the 2-4 leaf stage.\nAgil Herbicide is a systemic herbicide, which is quickly absorbed by the leaves and translocated from the foliage to the growing points of the leaves and roots of the sprayed weeds.\nRainfall 1 hour after application will not affect the product activity. Optimal activity is achieved when applied early and weeds are actively growing.\nAgil Herbicide is safe for beneficial insects and mammals and is environmentally friendly.\nTECHNICAL CONTENT\nPropaquizafop 10% EC\n\nFEATURES\nRainfall 1 hour after application will not affect the product activity. Optimal activity is achieved when applied early and weeds are actively growing.\nAGIL is safe to beneficial insects and mammals and is environmentally friendly.",
+      "tagline": "SEMPRA HERBICIDE",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662e213f4a4c414982f5eb7e"
+      }
+    }
+  ],
+  "__v": 0,
+  "shippingData": {
+    "address": "04 Borkar Building Lane no 3 Shivtej Park Near Raisoni College Wagholi Pune",
+    "city": "Pune",
+    "state": "maharashtra",
+    "country": "IN",
+    "pinCode": 412207,
+    "phoneNo": {
+      "$numberLong": "9623910270"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "662ff37b4c9d3436552fb698"
+  },
+  "name": "abc xyz",
+  "email": "abc123@gmail.com",
+  "password": "$2b$10$dMskbZ8TMcGrOKE/1yDdTeWxRGAB8wzdSpB1FnJnUBu1humUajNbm",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "SURABHI CORIANDER",
+      "price": {
+        "mrp": 250,
+        "cost": 208,
+        "discountPercent": 17
+      },
+      "subcategory": "Coriander",
+      "productImage": "https://cdn.shopify.com/s/files/1/0722/2059/products/CORIANDAR-NS-SURABHI-500-GM.jpg?v=1680156641",
+      "category": "Seeds",
+      "description": "Product Description\nSurabhi is a vigorous variety of coriander having excellent yield potential. Suitable for multiple cuts with very attractive, large, shiny leaves with having good aroma. It is a late-bolting variety and can be grown around the year.\n\nUSAGE\nFEATURES:\nType - multi-cut\nStalk height- 20 25 cm\nFoliage color- Dark green\nMATURITY: 35 days after sowing.\n",
+      "tagline": "SURABHI CORIANDER",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662e905d8b4efe6f52950fe2"
+      }
+    },
+    {
+      "productName": "ISABION GROWTH PROMOTER",
+      "price": {
+        "mrp": 259,
+        "cost": 169,
+        "discountPercent": 35
+      },
+      "subcategory": "Plant Nutrition",
+      "productImage": "https://cdn.shopify.com/s/files/1/0722/2059/files/NewProduct_19.png?v=1689334193",
+      "category": "Plant Nutrition",
+      "description": "Product Description\nAbout Product\nIsabion Syngenta Growth Promoter is a natural bio stimulant product offered by Syngenta.\nIt contains a well-balanced mix with optimal ratio between short chain peptides, long chain peptides and free amino acids.\nIt is designed to enhance the yield and quality of crops naturally.\nIt is recommended for use on a variety of crops including fruit trees, vegetables, and field crops, and is particularly beneficial during active growth phases, transplantation, flowering, fruit setting, and ripening.\nIsabion Syngenta Technical Details\nTechnical Content: Amino Acids of natural origin",
+      "tagline": "ISABION GROWTH PROMOTER",
+      "quantity": 1,
+      "seller": {
+        "$oid": "662b71ba9ab72c5a6d14023f"
+      },
+      "_id": {
+        "$oid": "662f853dd5d25d3bc2cb753e"
+      }
+    }
+  ],
+  "__v": 0,
+  "shippingData": {
+    "address": "At Post shelapur Kd Tal motala dist Buldhana ",
+    "city": "pune",
+    "state": "maharashtra",
+    "country": "India",
+    "pinCode": 412207,
+    "phoneNo": {
+      "$numberLong": "7766554433"
+    }
+  }
+}]

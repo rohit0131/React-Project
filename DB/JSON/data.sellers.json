@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "662b71ba9ab72c5a6d14023f"
+  },
+  "name": "abc xyz",
+  "email": "abc123@gmail.com",
+  "password": "$2b$10$UA2.yt5WS0RlmminkFYQEOsIotRj8GTLzbG3xh2uMLA0V9LWnSraq",
+  "role": "Seller",
+  "shopName": "BlackDog",
+  "__v": 0
+}]
